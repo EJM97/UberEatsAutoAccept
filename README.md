@@ -11,3 +11,6 @@ App is built using Tasker with AutoInput addon.
 App has no UI, clicking the app will make it run in the background, go online in uber driver app and orders should be accepted if no action is taken within 2 seconds. 
 NOTE: Uber Driver app must be in Foreground.
 To stop the app you have to force stop the app.
+
+## Latest release.
+https://github.com/EJM97/UberEatsAutoAccept/releases/tag/V1.0
